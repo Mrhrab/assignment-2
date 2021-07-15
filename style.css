@@ -114,9 +114,26 @@ margin-right:
     
     width: 483.87px;
     height: 110px;
-    margin-left: 39%;
+    margin-left: 36%;
 
 }
-.footer-logo{
-    
+.logo-container{
+    display: flex;
+    justify-content: center;
+}
+.fab {
+    color: grey;
+    margin:14px;
+     font-size: 32px;
+    align-self:center;
+}
+.copyrights{
+    display: flex;
+    justify-content: center;
+    color: #000000;
+
+}
+.far{
+    font-size: 18px;
+    padding: 20px solid white;
 }
