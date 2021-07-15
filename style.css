@@ -71,7 +71,8 @@ body{
    grid-row-gap: 10px;
    align-items: center;
    margin-top: 70px ;
-   margin-left: 300px;
+   margin-left: 345px;
+   margin-right: 345px;
   
 
 background: #FFFFFF;
@@ -107,3 +108,15 @@ margin-right:
 
 
 /*--------------------- section two end */
+
+/* footer section start */
+.foot-img{
+    
+    width: 483.87px;
+    height: 110px;
+    margin-left: 39%;
+
+}
+.footer-logo{
+    
+}
